@@ -8,7 +8,6 @@ function setup() {
 }
 
 function draw() {
-  console.log('ahaha')
   for (let i= 0;i<20;i++){
     fill(130,100,100);
     ellipse(i*8,20,20,20);
